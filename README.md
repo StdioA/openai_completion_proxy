@@ -2,7 +2,7 @@
 A proxy to translate [OpenAI completion API](https://platform.openai.com/docs/api-reference/completions) (`/v1/completions`) to [OpenAI chat completion API](https://platform.openai.com/docs/api-reference/chat) (`/v1/chat/completions`).
 
 ## Usage
-Installation: `go install github.com/stdioa/openai_completion_proxy`.
+Installation: `go install github.com/stdioa/openai_completion_proxy@latest`.
 
 Usage:
 ```
